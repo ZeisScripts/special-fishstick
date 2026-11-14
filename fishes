@@ -1,0 +1,1 @@
+loadstring(game(Get:Http("https://raw.githubusercontent.com/ZeisScripts/Export/refs/heads/main/loadstring.lua"))
